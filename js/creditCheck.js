@@ -64,4 +64,4 @@ console.log(creditCheck("5541801923795240") === "The number is invalid!");
 console.log(creditCheck("4024007106512380") === "The number is invalid!");
 console.log(creditCheck("6011797668868728") === "The number is invalid!");
 
-// exports.creditCheck = 
+// exports.creditCheck = creditCheck(str)
